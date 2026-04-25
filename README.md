@@ -70,7 +70,7 @@ Visualizes detections, tracking, and risk alerts in real-time.
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy  
 - Precision & Recall  
@@ -80,7 +80,7 @@ Visualizes detections, tracking, and risk alerts in real-time.
 
 ---
 
-## 📦 Deliverables
+## Deliverables
 
 - Wildlife detection and tracking system  
 - Poacher detection module  
@@ -90,7 +90,7 @@ Visualizes detections, tracking, and risk alerts in real-time.
 
 ---
 
-## 🔍 Scope
+## Scope
 This project focuses on software-based analysis using aerial data and simulated drones. It does not involve physical drone control and serves as a decision-support system for wildlife conservation and urban safety.
 
 ---
