@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Model weights (too large for GitHub)
+models/*.pt
+models/*.bin
+models/*.onnx
+models/*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyomodels/*.pt
+
+
+models/*.pt
+
+# Data
+data/
+
+# Misc
+*.json
